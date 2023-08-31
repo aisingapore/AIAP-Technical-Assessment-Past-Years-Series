@@ -9,7 +9,7 @@
 
 AI Singapore’s AI Apprenticeship Programme (AIAP)® was launched in 2018 to groom local Singaporean AI talent and enhance their career with AI-related skills. Since its launch, there have been 14 batches of apprentices who have embarked on this award-winning programme.
 
-Before embarking on the AIAP journey, all apprentices have to pass our (recruitment process)[https://connect.aisingapore.org/2021/01/aiap-technical-assessment/], which includes a Technical Assessment stage. The Technical Assessment is a 6-day take-home assignment, and it requires candidates to perform exploratory data analysis (EDA) and build an end-to-end machine learning pipeline on an unseen problem statement and dataset.
+Before embarking on the AIAP journey, all apprentices have to pass our [recruitment process](https://connect.aisingapore.org/2021/01/aiap-technical-assessment/), which includes a Technical Assessment stage. The Technical Assessment is a 6-day take-home assignment, and it requires candidates to perform exploratory data analysis (EDA) and build an end-to-end machine learning pipeline on an unseen problem statement and dataset.
 
 To ensure the rigor of the selection process, all Technical Assessments are carefully designed by our AI Engineers to effectively assess applicants' proficiency in AI and Software Engineering. Based on past statistics, only 25% of the total applicants will pass the Technical Assessment and proceed to the second stage of the recruitment process (Interview).
 
