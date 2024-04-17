@@ -22,3 +22,4 @@ We will regularly update the AIAP Technical Assessment Past Years Series to prov
 | Assignment                                                                                                                                      | Released on |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Student Score Prediction](StudentScorePrediction/AIAP%20Technical%20Assessment%20Past%20Years%20Series%20-%20Student%20Score%20Prediction.pdf) | 31.08.23    |
+| [Hotel No-Show Prediction](HotelNoShowPrediction/AIAP%20Technical%20Assessment%20Past%20Years%20Series%20-%20Hotel%20No-Show%20Prediction.pdf) | 15.04.24    |
